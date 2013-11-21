@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Погода в Канске</string>
+    <string name="appwidget_text">Погода в Канске</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Добавить виджет</string>
+    <string name="error">Нет связи с сервером</string>
+    <string name="kansk">Канск</string>
+    <string name="bar">Давление</string>
+    <string name="mm">мм</string>
+    <string name="baro">Барометр</string>
+
+</resources>
